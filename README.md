@@ -1,5 +1,12 @@
 # Quote Racer
+![Quote Racer](./docs/ezgif.com-gif-maker-1.gif)
+
+## Requirements
 Requirement programs to run the shell script are `python3` and `figlet`.  
+
+## Usage Commands
+In order to navigate the menu, use vim keys `h` and `l` and `s` to select 
+desired option.   
 
 ## Add Quotes
 The quotes are stored in the file `quotes.txt` in the following way:  
